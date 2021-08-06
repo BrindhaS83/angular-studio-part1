@@ -1,4 +1,10 @@
+.center-it{
+    display: flex;
+    justify-content: center;
+}
+
 .box {
     display: flex;
     padding: 10px;
+    
  }
